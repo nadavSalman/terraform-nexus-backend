@@ -1,7 +1,7 @@
 terraform {
   backend "artifactory" {
     # URL of the nexus repository
-    url      = "http://repo.devops/repository/terraform/" 
+    url      = "http://nexus/repository/terraform/" 
     # the repository name you just created
     repo     = "terraform" 
     # an unique path to for identification
