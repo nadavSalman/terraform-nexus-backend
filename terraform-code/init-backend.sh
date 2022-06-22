@@ -1,0 +1,2 @@
+terragrunt init
+terragrunt apply
