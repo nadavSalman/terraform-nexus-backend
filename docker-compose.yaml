@@ -6,6 +6,7 @@ services:
     image: sonatype/nexus3:3.33.0
     ports:
       - "8081:8081"
+    
   terragrunt:
     container_name: terraform
     image: alpine/terragrunt:1.1.2

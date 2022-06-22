@@ -1,2 +1,2 @@
-terragrunt init
+yes | terragrunt init
 terragrunt apply

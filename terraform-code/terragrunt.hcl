@@ -4,8 +4,6 @@ terraform {
       "init"
     ]    
     arguments = [
-      "-force-copy",
-      "--auto-approve"
     ]
   }
 
