@@ -4,6 +4,7 @@ terraform {
       "init"
     ]    
     arguments = [
+      "-input=false"
     ]
   }
 

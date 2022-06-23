@@ -9,6 +9,6 @@ terraform {
     # an username that has permissions to the repository
     username = "admin" 
     # the password of the username you provided
-    password = "admin123" 
+    password = "Q1w2e3r4t5y6" 
   }
 }   
