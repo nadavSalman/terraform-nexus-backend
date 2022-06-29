@@ -1,0 +1,13 @@
+2022-06-27 09:38:11,474+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask - Task information:
+2022-06-27 09:38:11,487+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  ID: 31482ab2-7506-4571-8aa2-10e410633e25
+2022-06-27 09:38:11,488+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Type: repository.rebuild-index
+2022-06-27 09:38:11,490+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Name: Repair - Rebuild repository search
+2022-06-27 09:38:11,491+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Description: Rebuilding search index of *
+2022-06-27 09:38:11,519+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository maven-snapshots
+2022-06-27 09:38:11,803+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository maven-central
+2022-06-27 09:38:11,985+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository nuget.org-proxy
+2022-06-27 09:38:12,236+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository maven-releases
+2022-06-27 09:38:12,424+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository nuget-hosted
+2022-06-27 09:38:12,659+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository terraform
+2022-06-27 09:38:12,982+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Indexed 1 / 1 terraform components in 76 ms
+2022-06-27 09:38:12,986+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask - Task complete

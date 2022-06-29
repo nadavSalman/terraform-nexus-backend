@@ -1,0 +1,8 @@
+172.17.0.1 - - [29/Jun/2022:08:35:20 +0000] "GET / HTTP/1.1" 200 - 8933 141 "curl/7.64.1" [qtp739107310-116]
+127.0.0.1 - - [29/Jun/2022:08:35:20 +0000] "PUT /service/rest/v1/security/users/admin/change-password HTTP/1.1" 401 12 0 68 "curl/7.61.1" [qtp739107310-111]
+127.0.0.1 - admin [29/Jun/2022:08:35:20 +0000] "PUT /service/rest/v1/security/anonymous HTTP/1.1" 415 17 0 61 "curl/7.61.1" [qtp739107310-112]
+127.0.0.1 - admin [29/Jun/2022:08:35:21 +0000] "POST /service/rest/v1/repositories/raw/hosted HTTP/1.1" 400 165 162 247 "curl/7.61.1" [qtp739107310-109]
+172.17.0.1 - admin [29/Jun/2022:08:35:22 +0000] "GET /repository/terraform/tfstate/terraform.tfstate HTTP/1.1" 200 - 155 174 "artifactory-go.4.0.1" [qtp739107310-110]
+172.17.0.1 - admin [29/Jun/2022:08:35:23 +0000] "GET /repository/terraform/tfstate/terraform.tfstate HTTP/1.1" 200 - 155 15 "artifactory-go.4.0.1" [qtp739107310-115]
+172.17.0.1 - admin [29/Jun/2022:08:35:23 +0000] "GET /repository/terraform/tfstate/terraform.tfstate HTTP/1.1" 200 - 155 10 "artifactory-go.4.0.1" [qtp739107310-116]
+172.17.0.1 - admin [29/Jun/2022:08:35:23 +0000] "PUT /repository/terraform/tfstate/terraform.tfstate HTTP/1.1" 201 155 0 624 "artifactory-go.4.0.1" [qtp739107310-112]
